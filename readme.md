@@ -27,6 +27,9 @@ Esta es una calculadora simple implementada en JavaScript con HTML y CSS. Permit
 4.  **Decimal**: Agrega decimales a los números utilizando el botón ".".
 5.  **Resultado**: Obtén el resultado de la operación haciendo clic en el botón "=".
  
+## Ejemplo de Uso
+
+Ingresa al siguiente link e ingresas tus cuentas https://mackaroost.github.io/calculadora/
 
 ## Mejoras Futuras
 
