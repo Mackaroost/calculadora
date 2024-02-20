@@ -1,0 +1,49 @@
+body{
+  max-height: 90vh;
+  background-color: rgb(12, 121, 121);
+}
+.title{
+  text-align: center;
+  margin: 0;
+  padding: 30px;
+  font-weight: bold;
+  color:azure;
+}
+.container {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    padding:30px 10px;
+    background-color: blanchedalmond;
+    
+  }
+  
+  #display {
+    width: calc(100% - 25px);
+    padding: 13px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    outline: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+  }
+  
+  .buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+   
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 18px;
+    
+
+  }
+
+ #c{
+    grid-column: span 2;
+ }
